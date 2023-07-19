@@ -9,7 +9,9 @@
 ## My tech stack
 
 <p align="left"> 
-
+  <a> 
+    <img alt="Vercel" src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white">
+  </a> 
   <a> 
     <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-blue?logo=Typescript&logoColor=black">
   </a> 
